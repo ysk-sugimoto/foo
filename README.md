@@ -2,4 +2,4 @@ foo
 ===
 bar
 ===
-branch
+branch2
